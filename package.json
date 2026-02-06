@@ -1,0 +1,27 @@
+{
+  "name": "rename-god",
+  "version": "1.0.0",
+  "description": "This is the best file rename package for TypeScript and JavaScript",
+  "keywords": [
+    "File",
+    "Rename",
+    "Renamer",
+    "File",
+    "Handelling"
+  ],
+  "homepage": "https://github.com/bhanusunrise/rename-god#readme",
+  "bugs": {
+    "url": "https://github.com/bhanusunrise/rename-god/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhanusunrise/rename-god.git"
+  },
+  "license": "ISC",
+  "author": "Pasindu Bhanuka",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
